@@ -1,5 +1,5 @@
 # NYTM
-Bien sûr, voici les étapes pour installer WordPress et les écrire dans un fichier README :
+voici les étapes pour installer WordPress et les écrire dans un fichier README :
 
 Téléchargez la dernière version de WordPress à partir du site officiel.
 
