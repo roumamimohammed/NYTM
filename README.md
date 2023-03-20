@@ -2,9 +2,8 @@
 
 
 
+# Installer WordPress
 
-
-#Installer WordPress
 Pour installer WordPress, suivez les étapes ci-dessous :
 
 Téléchargez la dernière version de WordPress à partir du site officiel.
